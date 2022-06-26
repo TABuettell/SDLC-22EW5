@@ -1,1 +1,12 @@
-# SDLC-22EW5
+**How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
+
+ User needs are interpreted by the product owner through user meetings and meetings with the client. Discussions as to what, who and how the software should look like and what it will do are conducted. These discussion pieces and requirements are documented into a Software Requirement Specification. These requirements can then be prioritized based on the importance they have to the overall program. User stories are then created with acceptance criteria (among other items) and is then used by the development team to create in code what the users/client wants. 
+
+**How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?**
+
+I need to visualize and have a clear direction of what the software will be/do. Also, having a knowledge of what is NOT wanted is important to me as well. After getting these requirements, I approach with the most important aspects first, then continue down my list of requirements after one is complete. For instance, if developing in Java, having a good idea on what classes/objects will be used on developing those first helps when writing the main portion of the program as the classes are already written and you can call them further on in development. 
+I know personally that the daily scrum is extremely important to me. I currently attend them in my role as a tester, but having the knowledge of what others have done, are doing, and will do is helpful. Being able to share my experiences and ask questions on something that I'm not clear on is extremely beneficial to accomplishing my tasks on the team. This also feeds into teamwork, which is huge when working with a team on a development project. 
+
+**What does it mean to be a good team member in software development?**
+
+I would describe a good team member as someone who is approachable, communacative, and motivated. Communications skills is probably the most important aspect to have on a team. The ability to communicate issues or suggestions clearly and concisely is imperitive so that others can give their feedback on those suggestions. A good team member is also there to offer advice when someone needs help, but also is humble enough to ask for help when they need it. Noone in the world knows everything about coding. Recognizing that is essential to working together proactively on a team. Other important aspects of being a good team member is work ethic, goal oriented, and critical thinking. 
